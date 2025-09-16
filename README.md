@@ -2,3 +2,5 @@
 precentaciones con gamma,explorados con persplexity
 solicitud a perplexity
 necesito que explores intensamente en la ciudad de posadas, misiones ciudad fronteriza a las dificultades que se presentan en los alumnos de secundaria diurna específicamente en rango etario de 13 a 17 años tengo la hipotesisque el fracaso escolar y problemas como falta de clases , repitencia ,deserción escolar  esta correlacionado con el mal uso de la tecnología , esto es adicción como enfermedad a la tecnología ,pero además ,se vuelven agnosticos,por ser demasiados hedonistas , a esto el no tener un futuro creíble se retraen al consumo de drogas . además, el contexto de la pobreza , la falta de recursos y acceso a un mejor bienestar para su educación son excluidos por sus pares y en general por la comunidad
+###presentacion en gamma
+[[presentacion-compartida](https://gamma.app/docs/Crisis-Educativa-en-Posadas-Adolescentes-en-Riesgo-7i03jynmbn71bmv)]
